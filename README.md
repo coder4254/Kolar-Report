@@ -1,1 +1,1 @@
-https://jjm-mysuru.netlify.app/
+https://jjm-kolar.netlify.app/
